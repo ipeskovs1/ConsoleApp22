@@ -10,6 +10,7 @@ namespace ConsoleApp22
     {
         static void Main(string[] args)
         {
+            Console.Writeline("Goodbye World!");
         }
     }
 }
